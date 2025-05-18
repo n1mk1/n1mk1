@@ -7,7 +7,7 @@ I'm a **Computer Science student at Toronto Metropolitan University** with a pas
 
 ## 🖥️ Skills  
 **Languages:** `C` | `C#` | `Python` | `Java` | `SQL` | etc.  
-I'm proficient in many languages but excel in **Python, C#, and Elixr**.  
+I'm proficient in many languages but excel in **Python, C#, and Various Data Science Based Languages**.  
 
 ---
 
