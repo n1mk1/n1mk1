@@ -13,9 +13,6 @@ I'm proficient in many languages but excel in **Python, C#, and Various Data Sci
 
 ## 🔹 Interests  
 
-### 🔹 Algorithms & Problem-Solving  
-Love tackling **complex problems** and optimizing solutions.  
-
 ### 🔹 Financial & Physics Simulations  
 Applying **computational methods** to real-world scenarios, such as **processing large datasets** and **visualizing them through physics simulations**.  
 
