@@ -1,13 +1,20 @@
 # Wasti's Profile  
 
 👋 **Hey there! I'm Wasti!**  
-I'm a **Computer Science student at Toronto Metropolitan University** with a passion for **financial and applied physics data analysis**. I enjoy building **fun and creative data structures** that model real-world events and objects.  
+I'm a **Computer Science student at Toronto Metropolitan University** with a passion for **financial and applied physics data analysis**.
 
 ---
 
-## 🖥️ Skills  
-**Languages:** `C` | `C#` | `Python` | `Java` | `SQL` | etc.  
-I'm proficient in many languages but excel in **Python, C#, and Various Data Science Based Languages**.  
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `C#` `C++` `Java` `JavaScript` `SQL` `R` `Haskell` `Bash` `Elixir`
+
+**AI/ML & Data Science**  
+`PyTorch` `Pandas` `NumPy` `PySpark` `Scikit-learn` `Librosa` `Matplotlib` `OpenCV` `MediaPipe`
+
+**Full-Stack & Tools**  
+`React` `Node.js` `Electron` `Dash` `Plotly` `Power BI` `Docker` `MongoDB` `PostgreSQL` `MySQL`
 
 ---
 
@@ -28,9 +35,8 @@ I love analyzing **trends**, predicting **industry movements**, and **speculatin
 
 ---
 
-## 🔹 Current Focus  
-✔ **Improving my data structures skills**  
-✔ **Exploring mathematical patterns & computational strategies**  
+## 🔹 Current Focus 
+✔ **Hackathons**
 ✔ **Enhancing my fitness & endurance**  
 
 ---
