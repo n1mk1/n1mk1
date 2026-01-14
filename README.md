@@ -35,8 +35,8 @@ Games like *Civilization 7* and *Frostpunk* push me to manage **multiple ideas a
 I relish convincing people to build PCs, knowing I’ll be the one assembling them.  
 
 ### 🔹 Stock Market & Industry Trends  
-I have deep knowledge of the, **PC hardware market**, and **gaming industry**.  
-I love analyzing hardware price fluctuations and in the hopes of one day flexing with 128 gig RAMs on my friends.
+I have deep knowledge of the PC hardware market and the gaming industry—mostly from PC Part Picker fantasy builds and binging YouTube videos.
+I love analyzing hardware price fluctuations, all in the hopes of one day flexing 128GB of RAM to my friends.
 
 ---
 
