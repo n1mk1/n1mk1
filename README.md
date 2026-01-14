@@ -32,15 +32,16 @@ Applying **computational methods** to real-world scenarios, such as **processing
 Games like *Civilization 7* and *Frostpunk* push me to manage **multiple ideas and datasets simultaneously**.  
 
 ### 🔹 PC Building  
-A **hardware enthusiast** who enjoys **convincing people to build PCs** with the only intention to assemble it for them.  
+I relish convincing people to build PCs, knowing I’ll be the one assembling them.  
 
 ### 🔹 Stock Market & Industry Trends  
-I have deep knowledge of the **stock market**, **PC hardware market**, and **gaming industry**.  
-I love analyzing **trends**, predicting **industry movements**, and **speculating based on market shifts**.  
+I have deep knowledge of the, **PC hardware market**, and **gaming industry**.  
+I love analyzing hardware price fluctuations and in the hopes of one day flexing with 128 gig RAMs on my friends.
 
 ---
 
 ## 🔹 Current Focus 
+✔ **Last Semester**
 ✔ **Hackathons**
 ✔ **Enhancing my fitness & endurance**  
 
