@@ -4,6 +4,11 @@
 I'm a **Computer Science student at Toronto Metropolitan University** with a passion for **financial and applied physics data analysis**.
 
 ---
+**Most Recent Project**
+Computer Vision Bodybuilding Physique Analysis System | Python, OpenCV, MediaPipe, Tkinter, NumPy
+> Built an automated physique assessment system using MediaPipe, OpenCV, and NumPy, integrating pose estimation, segmentation, and visualization for bodybuilding image analysis.
+> Designed landmark geometry algorithms to compute X-Frame and mass ratios (shoulders, latissimus, waist, quadriceps) using center-out scans, CLAHE enhancement, Canny edge detection, and morphological operations.
+> Developed an intuitive Tkinter UI with robust file handling, logging capabilities and comprehensive error management
 
 ## 🛠️ Tech Stack
 
@@ -11,7 +16,7 @@ I'm a **Computer Science student at Toronto Metropolitan University** with a pas
 `Python` `C#` `C++` `Java` `JavaScript` `SQL` `R` `Haskell` `Bash` `Elixir`
 
 **AI/ML & Data Science**  
-`PyTorch` `Pandas` `NumPy` `PySpark` `Scikit-learn` `Librosa` `Matplotlib` `OpenCV` `MediaPipe`
+`PyTorch` `Pandas` `NumPy` `Plotly` `DASH`  `PySpark` `Scikit-learn` `Librosa` `Matplotlib` `OpenCV` `MediaPipe`
 
 **Full-Stack & Tools**  
 `React` `Node.js` `Electron` `Dash` `Plotly` `Power BI` `Docker` `MongoDB` `PostgreSQL` `MySQL`
