@@ -5,7 +5,7 @@ I'm a **Computer Science student at Toronto Metropolitan University** with a pas
 
 ---
 **Most Recent Project**
-Computer Vision Bodybuilding Physique Analysis System | Python, OpenCV, MediaPipe, Tkinter, NumPy
+## Computer Vision Bodybuilding Physique Analysis System | Python, OpenCV, MediaPipe, Tkinter, NumPy
 - Built an automated physique assessment system using MediaPipe, OpenCV, and NumPy, integrating pose estimation, segmentation, and visualization for bodybuilding image analysis.
 - Designed landmark geometry algorithms to compute X-Frame and mass ratios (shoulders, latissimus, waist, quadriceps) using center-out scans, CLAHE enhancement, Canny edge detection, and morphological operations.
 - Developed an intuitive Tkinter UI with robust file handling, logging capabilities and comprehensive error management
