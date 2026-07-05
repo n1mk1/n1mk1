@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/8b517f9d8121839bf04992d0b9db00a9/ab85610aad6dfd15-5a/s540x810/3c953013a4d3f0be50341a2d3904aabcf4813742.gif" width="480" alt="Pacific Rim" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260" alt="cat typing furiously" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,30:0B1B33,65:0F4C75,100:00E5FF&height=220&section=header&text=Hey%2C%20I%27m%20Wasti!&fontColor=EAF9FF&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Financial%20%26%20Physics%20Data%20Analysis&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
