@@ -2,11 +2,9 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260" alt="cat typing furiously" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,30:0B1B33,65:0F4C75,100:00E5FF&height=220&section=header&text=Hey%2C%20I%27m%20Wasti!&fontColor=EAF9FF&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Financial%20%26%20Physics%20Data%20Analysis&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
-
 <div align="center">
 
-[![N SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;CS+New+Grad+%40+Toronto+Metropolitan+University;Financial+%26+Applied+Physics+Data+Analysis;PC+Builder+%7C+4X+Strategist+%7C+Data+Nerd)](https://n1mk1.github.io/n1mk1/)
+[![N SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi!,+I+am+Wasti+;AI+Engineer;CS+New+Grad+%40+Toronto+Metropolitan+University;Financial+%26+Applied+Physics+Data+Analysis;PC+Builder+%7C+4X+Strategist+%7C+Data+Nerd)](https://n1mk1.github.io/n1mk1/)
 
 <a href="https://n1mk1.github.io/n1mk1/"><img src="https://img.shields.io/badge/🌱_Portfolio-Digital_Garden-00E5FF?style=for-the-badge&labelColor=020409" /></a>
 
