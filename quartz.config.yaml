@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: n1mk1.github.io/n1mk1
+  baseUrl: n1mk1.github.io
   ignorePatterns:
     - private
     - templates
