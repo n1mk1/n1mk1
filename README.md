@@ -9,7 +9,6 @@
 [![N SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;CS+New+Grad+%40+Toronto+Metropolitan+University;Financial+%26+Applied+Physics+Data+Analysis;PC+Builder+%7C+4X+Strategist+%7C+Data+Nerd)](https://n1mk1.github.io/n1mk1/)
 
 <a href="https://n1mk1.github.io/n1mk1/"><img src="https://img.shields.io/badge/🌱_Portfolio-Digital_Garden-00E5FF?style=for-the-badge&labelColor=020409" /></a>
-<img src="https://img.shields.io/badge/⚙️_Status-Drift_Compatible-F97316?style=for-the-badge&labelColor=020409" />
 
 </div>
 
@@ -144,11 +143,6 @@ Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.c
 
 <div align="center">
 
-<br />
-
-<img src="https://img.shields.io/badge/⚔️_PAN_PACIFIC_DEFENSE_CORPS-JAEGER_PROGRAM-00E5FF?style=for-the-badge&labelColor=020409" />
-
-<br />
 <br />
 
   <h3>“The world is coming to an end.”</h3>
