@@ -1,14 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Hey%2C%20I%27m%20Wasti!&fontColor=c0caf5&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Financial%20%26%20Physics%20Data%20Analysis&descSize=20&descAlignY=55" width="100%" />
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260" alt="cat typing furiously" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,30:0B1B33,65:0F4C75,100:00E5FF&height=220&section=header&text=Hey%2C%20I%27m%20Wasti!&fontColor=EAF9FF&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Financial%20%26%20Physics%20Data%20Analysis&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-[![N SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=AI+Engineer;CS+New+Grad+%40+Toronto+Metropolitan+University;Financial+%26+Applied+Physics+Data+Analysis;PC+Builder+%7C+4X+Strategist+%7C+Data+Nerd)](https://n1mk1.github.io/n1mk1/)
+[![N SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;CS+New+Grad+%40+Toronto+Metropolitan+University;Financial+%26+Applied+Physics+Data+Analysis;PC+Builder+%7C+4X+Strategist+%7C+Data+Nerd)](https://n1mk1.github.io/n1mk1/)
 
-<a href="https://n1mk1.github.io/n1mk1/"><img src="https://img.shields.io/badge/🌱_Portfolio-Digital_Garden-7aa2f7?style=for-the-badge" /></a>
+<a href="https://n1mk1.github.io/n1mk1/"><img src="https://img.shields.io/badge/🌱_Portfolio-Digital_Garden-00E5FF?style=for-the-badge&labelColor=020409" /></a>
+<img src="https://img.shields.io/badge/⚙️_Status-Drift_Compatible-F97316?style=for-the-badge&labelColor=020409" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -17,10 +22,10 @@
 - 📈 Passionate about **financial & applied physics data analysis** — modeling messy real-world systems and making them visual
 - 🌱 I grow a **digital garden** instead of a blog → [n1mk1.github.io/n1mk1](https://n1mk1.github.io/n1mk1/)
 - 🖥️ I convince friends to build PCs so I get to do the assembly
-- 🏛️ 4X strategist — *Civilization 7* and *Frostpunk* 
+- 🏛️ 4X strategist — *Civilization 7* and *Frostpunk*
 - 💾 One day I **will** flex 128GB of RAM
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
 
 ## 🌱 My Portfolio Site
 
@@ -30,11 +35,13 @@ This repo also hosts my personal portfolio — a digital garden where I write up
 
 Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.com/jackyzha0).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
 
 ## 🛠️ Skills
 
 ### Languages
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -51,7 +58,11 @@ Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.c
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-497A9F?style=for-the-badge)
 ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge)
 
+</div>
+
 ### AI / Machine Learning & Data Science
+
+<div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -67,7 +78,11 @@ Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.c
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+</div>
+
 ### GenAI / LLM Engineering
+
+<div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -77,7 +92,11 @@ Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.c
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-6E56CF?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/AI_Agents-BB9AF7?style=for-the-badge)
 
+</div>
+
 ### Full-Stack & Desktop
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -85,7 +104,11 @@ Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.c
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+</div>
+
 ### Databases & Vector Stores
+
+<div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -95,14 +118,20 @@ Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.c
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A35F0?style=for-the-badge&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
+</div>
+
 ### Tools & Platforms
+
+<div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
 
 ## 🎯 Current Focus
 
@@ -111,20 +140,28 @@ Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.c
 - 🏋️ Enhancing my **fitness & endurance**
 - 📈 Watching **hardware prices**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,20:0F4C75,50:F97316,80:0F4C75,100:020409&height=3" width="100%" />
 
 <div align="center">
 
 <br />
-<div align="center">
+
+<img src="https://img.shields.io/badge/⚔️_PAN_PACIFIC_DEFENSE_CORPS-JAEGER_PROGRAM-00E5FF?style=for-the-badge&labelColor=020409" />
+
+<br />
+<br />
+
   <h3>“The world is coming to an end.”</h3>
   <p>
     <em>“So where would you rather die? Here, or in a Jaeger?”</em>
   </p>
-  <sub>- Stacker Pentecost, Pacific Rim</sub>
-</div>
+  <sub>— Stacker Pentecost, Pacific Rim</sub>
+
+<br />
 <br />
 
-**Thanks for stopping by! **
+**Thanks for stopping by!**
 
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:0F4C75,70:0B1B33,100:020409&height=150&section=footer" width="100%" />
