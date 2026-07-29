@@ -26,7 +26,7 @@
 
 ## 🌱 My Portfolio Site
 
-**Live site:** [n1mk1.github.io/n1mk1](https://n1mk1.github.io/n1mk1/)
+**Live site:** [n1mk1.github.io/n1mk1](https://n1mk1.github.io/n1mk1/) [UNDER CONSTRUCTION]
 
 This repo also hosts my personal portfolio — a digital garden where I write up my projects and notes.
 
