@@ -114,13 +114,35 @@ body::after {
     background-image: linear-gradient(135deg, var(--tertiary), var(--secondary));
   }
 
-  // cover holding a real image (e.g. a transparent PNG): show the whole
-  // image, centered, on a neutral backdrop instead of cropping it.
+  // cover holding a real <img>: a plain wrapper that clips the crop. The base
+  // cover is a centering grid for the emoji variant; that grid would size its
+  // row to the image's intrinsic height and defeat the frame below, so this
+  // drops back to block and lets the <img> size itself.
   &__cover--image {
-    height: 220px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center bottom;
+    display: block;
+    height: auto;
+    padding: 0;
+    overflow: hidden;
+    background-image: none;
+    background-color: var(--lightgray);
+  }
+
+  // the image spans the full card width and is cropped vertically to a fixed
+  // 4:3 frame, so cards line up in the grid whatever the source aspect ratio.
+  // aspect-ratio (not a px height) keeps the frame proportional as the column
+  // width changes. object-fit: cover fills edge to edge and crops the
+  // overflow; object-position pulls the crop toward the top, where the subject
+  // sits in tall portrait shots. Swap to `contain` if you'd rather see a whole
+  // image letterboxed than a full-width crop.
+  &__img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    object-position: center 25%;
+    margin: 0;
+    border: none;
+    border-radius: 0;
   }
 
   &__body {
