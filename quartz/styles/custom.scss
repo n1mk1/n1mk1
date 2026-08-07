@@ -1,3 +1,162 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// ---- Background gif ----------------------------------------------------
+// base.scss paints body with --light, and a z-index:-1 layer paints behind
+// its own parent's background — so that one line would hide the gif
+// entirely. Move the colour up to html, where it still backstops the image
+// while it loads without sitting on top of it.
+html {
+  background-color: var(--light);
+}
+
+body {
+  background-color: transparent;
+}
+
+// ::before is the image, ::after the tint. Both fixed so they stay put while
+// the page scrolls; ::after paints over ::before by source order.
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+// light mode is the default; the dark override follows below
+body::before {
+  background-image: url("/static/light.gif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+:root[saved-theme="dark"] body::before {
+  background-image: url("/static/dark.gif");
+}
+
+// readability knob: raise to bury the gif, lower to show more of it.
+// set opacity to 0 to see the footage completely untouched.
+body::after {
+  background-color: var(--light);
+  opacity: 0.45;
+}
+
+:root[saved-theme="dark"] body::after {
+  opacity: 0.5;
+}
+
+// the page chrome is normally opaque; let the gif show through
+.page > #quartz-body,
+.page > #quartz-body .center,
+.page > #quartz-body .sidebar {
+  background-color: transparent;
+}
+
+// ---- Project gallery ---------------------------------------------------
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--light);
+  text-decoration: none !important;
+  color: inherit;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
+
+  // hover / focus / press: card pops out and everything else darkens.
+  // the huge-spread box-shadow paints a dim tint over the whole viewport
+  // while leaving the card itself lit — no overlay element needed.
+  &:hover,
+  &:focus-visible {
+    transform: scale(1.04);
+    border-color: var(--secondary);
+    z-index: 100;
+    box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.45);
+  }
+
+  // pressed (click/tap): pop a touch more, keep the dim from :hover
+  &:active {
+    transform: scale(1.07);
+  }
+
+  // cover: shows a background image if one is set inline,
+  // otherwise a themed gradient with an emoji sits on top.
+  // hide Quartz's external-link arrow icon on the card
+  .external-icon {
+    display: none;
+  }
+
+  &__cover {
+    height: 140px;
+    background-color: var(--lightgray);
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    place-items: center;
+    font-size: 2.6rem;
+    background-image: linear-gradient(135deg, var(--tertiary), var(--secondary));
+  }
+
+  // cover holding a real image (e.g. a transparent PNG): show the whole
+  // image, centered, on a neutral backdrop instead of cropping it.
+  &__cover--image {
+    height: 220px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+  }
+
+  &__body {
+    padding: 0.85rem 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  &__title {
+    font-family: var(--headerFont);
+    font-weight: $semiBoldWeight;
+    font-size: 1.02rem;
+    line-height: 1.25;
+    color: var(--dark);
+    margin: 0;
+  }
+
+  &__desc {
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: var(--darkgray);
+    margin: 0;
+  }
+
+  &__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-top: 0.2rem;
+
+    span {
+      font-size: 0.68rem;
+      font-family: var(--codeFont);
+      padding: 0.12rem 0.45rem;
+      border-radius: 5px;
+      background: var(--highlight);
+      color: var(--secondary);
+    }
+  }
+}

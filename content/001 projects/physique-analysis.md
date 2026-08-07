@@ -29,4 +29,4 @@ Pose landmarks give you *points*, not *edges* — the interesting work is in the
 
 ---
 
-More projects at [[projects/index|Projects]].
+More projects at [[001 projects/index|Projects]].

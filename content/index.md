@@ -1,21 +1,26 @@
 ---
 title: Wasti's Digital Garden
 ---
+I watched _Pacific Rim_ for the first time in Grade 7 at my friend’s house during lunchtime. I was a mindless kid before then, but for some reason, that day—and specifically this dialogue from Stacker Pentecost—activated my first neurons.
 
-👋 **Hey there! I'm Wasti!**
+Suddenly, my 13-year-old mush of a brain had “thoughts.”
 
-I'm a Computer Science student at **Toronto Metropolitan University** with a passion for **financial and applied physics data analysis**. This site is my digital garden — a growing collection of projects, notes, and ideas.
+**The finiteness of my life. Ambition. To know I exist, be it a speck of difference in the universe.**
 
-## Start here
+It gave me the high of a gambler. It took me years to understand why this line means so much to me.
 
-- [[about|About me]] — who I am and what I'm into
-- [[projects/index|Projects]] — things I've built
-- [[notes/index|Notes]] — thoughts on data, hardware, and games
+I liked the idea of a sheer brute-force solution to a problem. **Simple. Guaranteed.** There is a certain comfort in knowing I can tinker for efficiency because there will always be a default solution to return to. _Like the loving arms of the grave._
 
-## Recently
+**So, if all else fails: brute force.**
 
-- 🎓 Wrapping up my **last semester**
-- 💻 Competing in **hackathons**
-- 🏋️ Enhancing my **fitness & endurance**
+### Start Here
 
-Thanks for stopping by! 🚀
+Currently into **machine learning, AI, and hardware integrations**.
+
+[[001 projects/index|Projects]] — things I've built  
+[[002 machine-learning-notes/index|Notes]] — relearning everything from scratch  
+[[003 hobbies/index|Hobbies]] — drawing, cooking, lifting
+
+### Recently
+
+Just graduated · Competing in **hackathons** · Improving my **fitness & endurance**
