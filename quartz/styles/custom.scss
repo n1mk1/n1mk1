@@ -26,16 +26,18 @@ body::after {
   pointer-events: none;
 }
 
+// Paths are relative to this stylesheet, NOT root-absolute: the site is
+// served from the /n1mk1/ subpath, so a leading slash would 404.
 // light mode is the default; the dark override follows below
 body::before {
-  background-image: url("/static/light.gif");
+  background-image: url("static/light.gif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 :root[saved-theme="dark"] body::before {
-  background-image: url("/static/dark.gif");
+  background-image: url("static/dark.gif");
 }
 
 // readability knob: raise to bury the gif, lower to show more of it.

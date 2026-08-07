@@ -7,7 +7,9 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: n1mk1.github.io
+  # includes the /n1mk1 subpath — the site is a project page, not a user page,
+  # so omitting it breaks og:image, og:url and the sitemap
+  baseUrl: n1mk1.github.io/n1mk1
   ignorePatterns:
     - private
     - templates
