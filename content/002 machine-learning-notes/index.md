@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: 002 Notes
 tags:
   - notes
 ---
