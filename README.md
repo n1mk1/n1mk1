@@ -15,12 +15,11 @@
 ##  About Me
 
 -  **Computer Science New Grad** from **Toronto Metropolitan University**
--  Currently working as an **AI Engineer** for industry-leading **financial firms**
+-  Currently working as an **AI Engineer** for industry-leading **financial firm** downtown Toronto
 -  Passionate about **financial & applied physics data analysis** — modeling messy real-world systems and making them visual
 -  I grow a **digital garden** instead of a blog → [n1mk1.github.io/n1mk1](https://n1mk1.github.io/n1mk1/) [UNDER CONSTRUCTION]
 -  I convince friends to build PCs so I get to do the assembly
 -  4X strategist — *Civilization 7* and *Frostpunk*
--  One day I **will** flex 128GB of RAM
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
 
