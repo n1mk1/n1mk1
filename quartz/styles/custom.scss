@@ -17,8 +17,7 @@ body {
 
 // ::before is the image, ::after the tint. Both fixed so they stay put while
 // the page scrolls; ::after paints over ::before by source order.
-body::before,
-body::after {
+body::before {
   content: "";
   position: fixed;
   inset: 0;
@@ -45,23 +44,6 @@ body::before {
 // The tint is a horizontal gradient: darkest behind the text column in the
 // middle, fading out toward the edges so the footage shows at the sides.
 // --tint-center / --tint-edge are the strengths (percent) at each position.
-body::after {
-  --tint-center: 92%;
-  --tint-edge: 25%;
-  background-image: linear-gradient(
-    to right,
-    color-mix(in srgb, var(--light) var(--tint-edge), transparent) 0%,
-    color-mix(in srgb, var(--light) var(--tint-center), transparent) 32%,
-    color-mix(in srgb, var(--light) var(--tint-center), transparent) 68%,
-    color-mix(in srgb, var(--light) var(--tint-edge), transparent) 100%
-  );
-}
-
-:root[saved-theme="dark"] body::after {
-  --tint-center: 94%;
-  --tint-edge: 20%;
-}
-
 // the page chrome is normally opaque; let the gif show through
 .page > #quartz-body,
 .page > #quartz-body .center,
