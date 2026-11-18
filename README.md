@@ -19,8 +19,6 @@
 -  I convince friends to build PCs so I get to do the assembly
 -  4X strategist — *Civilization 7* and *Frostpunk*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
-
 ##  My Portfolio Site
 
 **Live site:** [n1mk1.github.io/n1mk1](https://n1mk1.github.io/n1mk1/) [UNDER CONSTRUCTION]
@@ -28,8 +26,6 @@
 This repo also hosts my personal portfolio — a digital garden where I write up my projects and notes.
 
 Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.com/jackyzha0).
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
 
 ##  Skills
 
