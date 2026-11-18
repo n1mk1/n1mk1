@@ -4,8 +4,6 @@
 
 <div align="center">
 
-[![N SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi!,+I+am+Wasti+;AI+Engineer;CS+New+Grad+%40+Toronto+Metropolitan+University;Financial+%26+Applied+Physics+Data+Analysis;PC+Builder+%7C+4X+Strategist+%7C+Data+Nerd)](https://n1mk1.github.io/n1mk1/)
-
 <a href="https://n1mk1.github.io/n1mk1/"><img src="https://img.shields.io/badge/🌱_Portfolio-Digital_Garden-00E5FF?style=for-the-badge&labelColor=020409" /></a>
 
 </div>
@@ -21,8 +19,6 @@
 -  I convince friends to build PCs so I get to do the assembly
 -  4X strategist — *Civilization 7* and *Frostpunk*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
-
 ##  My Portfolio Site
 
 **Live site:** [n1mk1.github.io/n1mk1](https://n1mk1.github.io/n1mk1/) [UNDER CONSTRUCTION]
@@ -30,8 +26,6 @@
 This repo also hosts my personal portfolio — a digital garden where I write up my projects and notes.
 
 Built with [Quartz 5](https://quartz.jzhao.xyz) by [Jacky Zhao](https://github.com/jackyzha0).
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,25:0F4C75,50:00E5FF,75:0F4C75,100:020409&height=3" width="100%" />
 
 ##  Skills
 
