@@ -18,8 +18,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: JetBrains Mono
-      body: JetBrains Mono
+      header: Gothic A1
+      body: Inter
       code: JetBrains Mono
     colors:
       # Coyote Tango: cockpit readouts on gunmetal. Cyan is the signal colour —
@@ -30,20 +30,20 @@ configuration:
         gray: "#8ba0aa"
         darkgray: "#2f3f49"
         dark: "#0d181e"
-        secondary: "#0b7285"
-        tertiary: "#1098ad"
-        highlight: rgba(16, 152, 173, 0.12)
-        textHighlight: "#3ddbd966"
+        secondary: "#d9480f"
+        tertiary: "#f76707"
+        highlight: rgba(247, 103, 7, 0.12)
+        textHighlight: "#ff9f4366"
       darkMode:
-        light: "#0a0e12"
-        lightgray: "#1d2630"
+        light: "#05080b"
+        lightgray: "#131a21"
         gray: "#4d5f6d"
-        darkgray: "#c2cfd8"
-        dark: "#e8f4f8"
-        secondary: "#3ddbd9"
-        tertiary: "#7ff0e8"
-        highlight: rgba(61, 219, 217, 0.12)
-        textHighlight: "#3ddbd955"
+        darkgray: "#ffffff"
+        dark: "#ffffff"
+        secondary: "#ff9f43"
+        tertiary: "#ffc078"
+        highlight: rgba(255, 159, 67, 0.14)
+        textHighlight: "#ff9f4355"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -109,8 +109,8 @@ plugins:
     options:
       fontOrigin: googleFonts
       title: JetBrains Mono
-      header: JetBrains Mono
-      body: JetBrains Mono
+      header: Gothic A1
+      body: Inter
       code: JetBrains Mono
       interface: JetBrains Mono
   - source: github:quartz-community/remove-draft

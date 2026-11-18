@@ -42,13 +42,24 @@ body::before {
 
 // readability knob: raise to bury the gif, lower to show more of it.
 // set opacity to 0 to see the footage completely untouched.
+// The tint is a horizontal gradient: darkest behind the text column in the
+// middle, fading out toward the edges so the footage shows at the sides.
+// --tint-center / --tint-edge are the strengths (percent) at each position.
 body::after {
-  background-color: var(--light);
-  opacity: 0.45;
+  --tint-center: 92%;
+  --tint-edge: 25%;
+  background-image: linear-gradient(
+    to right,
+    color-mix(in srgb, var(--light) var(--tint-edge), transparent) 0%,
+    color-mix(in srgb, var(--light) var(--tint-center), transparent) 32%,
+    color-mix(in srgb, var(--light) var(--tint-center), transparent) 68%,
+    color-mix(in srgb, var(--light) var(--tint-edge), transparent) 100%
+  );
 }
 
 :root[saved-theme="dark"] body::after {
-  opacity: 0.5;
+  --tint-center: 94%;
+  --tint-edge: 20%;
 }
 
 // the page chrome is normally opaque; let the gif show through
@@ -184,3 +195,10 @@ body::after {
     }
   }
 }
+
+
+// Aptos is a Microsoft font, not on Google Fonts: use it where installed, else Inter (loaded from Google).
+:root:root {
+  --bodyFont: Aptos, "Inter", "Segoe UI", system-ui, sans-serif;
+}
+
