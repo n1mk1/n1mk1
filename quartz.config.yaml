@@ -18,8 +18,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Gothic A1
-      body: Inter
+      header: JetBrains Mono
+      body: JetBrains Mono
       code: JetBrains Mono
     colors:
       # Coyote Tango: cockpit readouts on gunmetal. Cyan is the signal colour —
@@ -109,8 +109,8 @@ plugins:
     options:
       fontOrigin: googleFonts
       title: JetBrains Mono
-      header: Gothic A1
-      body: Inter
+      header: JetBrains Mono
+      body: JetBrains Mono
       code: JetBrains Mono
       interface: JetBrains Mono
   - source: github:quartz-community/remove-draft

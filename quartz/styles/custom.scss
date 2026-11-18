@@ -27,15 +27,18 @@ body::before {
 
 // Paths are relative to this stylesheet, NOT root-absolute: the site is
 // served from the /n1mk1/ subpath, so a leading slash would 404.
-// dark.gif is used in every theme. (Previously light.gif was the default and
-// dark.gif only applied when saved-theme=dark; the saved theme lives in
-// localStorage per-origin, so localhost (serve) and the deployed site (sync)
-// could show different gifs.)
+// dark.gif by default, light.gif when the light theme is active. The gif is a
+// fixed full-screen layer, so it must change with the theme or the background
+// appears not to switch.
 body::before {
   background-image: url("static/dark.gif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+:root[saved-theme="light"] body::before {
+  background-image: url("static/light.gif");
 }
 
 // readability knob: raise to bury the gif, lower to show more of it.
@@ -178,8 +181,8 @@ body::before {
 }
 
 
-// Aptos is a Microsoft font, not on Google Fonts: use it where installed, else Inter (loaded from Google).
+// Body font: JetBrains Mono (loaded from Google Fonts via quartz.config.yaml).
 :root:root {
-  --bodyFont: Aptos, "Inter", "Segoe UI", system-ui, sans-serif;
+  --bodyFont: "JetBrains Mono", monospace;
 }
 
