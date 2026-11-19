@@ -3,7 +3,7 @@ title: Wasti's Digital Garden
 ---
 I watched _Pacific Rim_ for the first time in 2013 at my friend’s house during lunchtime.
 
-## I head - **“The world is coming to an end. So where would you rather die? Here? Or in a Jaeger?”** - Stacker Pentecost 
+## I hear - **“The world is coming to an end. So where would you rather die? Here? Or in a Jaeger?”** - Stacker Pentecost 
 
 The first Neuron...
 
