@@ -7,7 +7,7 @@ I watched _Pacific Rim_ for the first time in 2013 at my friend’s house during
 
 The first Neuron...
 
-Currently into *Machine Learning, AI Agent Patterns and resisting the urge to get Uber eats*.
+Currently into *Machine Learning, AI Agent Patterns and resisting the urge to get Uber eats*. Taking notes while relearning everything from scratch. 
 
 ### Projects
 
